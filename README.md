@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello everybody! 👋 
 
+### 🎓 I am a recent graduate of Le Wagon's Full Stack Web Development program with a strong engineering and quality assurance background. Detail-oriented problem-solver seeking a software development role to apply my skills in JavaScript, HTML/CSS, and RESTful API integration. Experienced in working in teams, analyzing data, and improving processes. Excited to make a meaningful impact as an entry-level developer in a fast-paced and client-focused environment.
+
+- 🔭 I’m currently working on: Waxworks and Casaya (see my repo commits)
 <!--
 **jrod8253/jrod8253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
