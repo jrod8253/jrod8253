@@ -31,10 +31,6 @@
   <a href="https://www.php.net/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40px" height="40px"></a>
   <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40px" height="40px"></a>
   <a href="https://vitejs.dev/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40px" height="40px"></a>
-  <a href="" target="blank"><img align="center" src="" alt="" width="40px" height="40px"></a>
-
-
-
 </p>
 <!--
 **jrod8253/jrod8253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
