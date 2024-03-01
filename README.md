@@ -7,7 +7,7 @@
 
 <p align='left'>
   <a href="" target="blank"><img align="center" src="" alt="" width="40px" height="40px"></a>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" target="blank"><img align="center" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="javascript" width="40px" height="40px"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"></a>
 
 </p>
 <!--
